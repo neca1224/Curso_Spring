@@ -1,0 +1,9 @@
+package com.example.demo;
+
+public class ServicioSaludo {
+	
+	public String generarSaludo() {
+		return "Buenas Tardes";
+	}
+
+}
